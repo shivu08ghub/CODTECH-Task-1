@@ -1,16 +1,17 @@
 **Name:** SHIVANI SUBHASH SANGLE
 **Company:** CODTECH IT SOLUTIONS
-**ID:** CT04
+**ID:** CT04DA2318
 **Domain:** Data Analytics
 **Duration:** June to July 2024
 **Mentor:** SRAVANI GOUNI
 
-Overview of the Project
+## Overview of the Project
 
-Project: EXPLORATORY DATA ANALYSIS (EDA) on Amazon Sales Data Analysis
+### Project: EXPLORATORY DATA ANALYSIS (EDA) on Amazon Sales Data Analysis
+### Objective
 The objective of this project is to perform Exploratory Data Analysis (EDA) on Amazon sales data is to gain a comprehensive understanding of the dataset, identify key patterns and trends, and uncover valuable insights that can inform decision-making.
 
-Key Activities                                                                                                    
+### Key Activities                                                                                                    
 1. Data Extraction: Load the dataset into a Pandas DataFrame.
 2. Data Transformation: Clean the data,Extract relevant columns,Convert data types if necessary.
 3. Data Loading: Save the cleaned and transformed data for further analysis.
@@ -19,13 +20,13 @@ Key Activities
 6. Reporting: Summarize findings and insights.
 
 
-Tools and Technologies
+### Technologies Used
 1. Python: For data extraction, transformation, and loading (ETL), as well as analysis.
 2. Pandas: For data manipulation and analysis.
 3. Matplotlib/Seaborn: For data visualization.
 4. Excel: For quick data inspection and basic analysis.
 
-Outputs:
+### Outputs:
 ![Figure_9](https://github.com/user-attachments/assets/f3bffdfa-0e18-464f-86dc-bcde2c4c8ff2)
 ![Figure_7](https://github.com/user-attachments/assets/ad18a509-4aa1-4519-a59c-68e55155b7a7)
 ![Figure_6](https://github.com/user-attachments/assets/cdb3f3f4-f7af-4fc6-9756-8f68b6592a3c)
