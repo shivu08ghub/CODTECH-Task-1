@@ -26,7 +26,13 @@ The objective of this project is to perform Exploratory Data Analysis (EDA) on A
 - **Matplotlib/Seaborn:** For data visualization.
 - **Excel:** For quick data inspection and basic analysis.
 
-
+### Key Insights
+- **Sales Trends**
+- **Product Performance**
+- **Customer Behavior**
+- **Correlation Insight**
+- **Outlier Impact**
+- **Data Quality**
 
   
 ### Outputs:
