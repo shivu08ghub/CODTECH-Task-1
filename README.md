@@ -12,20 +12,28 @@
 The objective of this project is to perform Exploratory Data Analysis (EDA) on Amazon sales data is to gain a comprehensive understanding of the dataset, identify key patterns and trends, and uncover valuable insights that can inform decision-making.
 
 ### Key Activities                                                                                                    
-1. Data Extraction: Load the dataset into a Pandas DataFrame.
-2. Data Transformation: Clean the data,Extract relevant columns,Convert data types if necessary.
-3. Data Loading: Save the cleaned and transformed data for further analysis.
-4. Data Analysis:Create histograms for numerical variables to visualize their distributions,Visualize the correlation matrix using a heatmap,Identify pairs of variables with strong positive or negative correlations,Create line plots to visualize sales trends month-wise, year-wise, Identify any seasonal patterns or significant changes over time, Determine relationships between attributes (e.g., sales vs. product category, sales vs. region),Analyze sales performance by product category, Analyze sales performance by region, Identify top-selling products and categories.
-5. Visualization: Create visualizations to represent the trends and relationships.
-6. Reporting: Summarize findings and insights.
+- **Data Extraction:** Load the dataset into a Pandas DataFrame.
+- **Data Transformation:** Clean the data,Extract relevant columns,Convert data types if necessary.
+- **Data Loading:** Save the cleaned and transformed data for further analysis.
+- **Data Analysis:** Create histograms for numerical variables to visualize their distributions,Visualize the correlation matrix using a heatmap,Identify pairs of variables with strong positive or negative correlations,Create line plots to visualize sales trends month-wise, year-wise, Identify any seasonal patterns or significant changes over time, Determine relationships between attributes (e.g., sales vs. product category, sales vs. region),Analyze sales performance by product category, Analyze sales performance by region, Identify top-selling products and categories.
+- **Visualization:** Create visualizations to represent the trends and relationships.
+- **Reporting:** Summarize findings and insights.
 
 
 ### Technologies Used
-1. Python: For data extraction, transformation, and loading (ETL), as well as analysis.
-2. Pandas: For data manipulation and analysis.
-3. Matplotlib/Seaborn: For data visualization.
-4. Excel: For quick data inspection and basic analysis.
+- **Python:** For data extraction, transformation, and loading (ETL), as well as analysis.
+- **Pandas:** For data manipulation and analysis.
+- **Matplotlib/Seaborn:** For data visualization.
+- **Excel:** For quick data inspection and basic analysis.
 
+### Key Insights
+- **Trend Analysis**
+- **Correlation Identification**
+- **Model Performance**
+- **Predictive Accuracy**
+- **Investment Insights**
+
+  
 ### Outputs:
 ![Figure_9](https://github.com/user-attachments/assets/f3bffdfa-0e18-464f-86dc-bcde2c4c8ff2)
 ![Figure_7](https://github.com/user-attachments/assets/ad18a509-4aa1-4519-a59c-68e55155b7a7)
